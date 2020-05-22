@@ -106,15 +106,16 @@ experiences:
    #       - Bullet point
    
 projects:
-  #  title: Projects
+    title: Projects
   # intro: >
   #    You can list your side projects or open source libraries in this
   #    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   #    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Speech Command Recognition
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        #link: "#hook"
+        tagline: | 
+          - Goal of this project is to convert speech commands into text. Used MFCC technique for feature extraction.
 
       - title: DevStudio
         link: "#"
