@@ -79,9 +79,14 @@ experiences:
       time: 2014 - 2018
       company: 247.ai, San Francisco
       details: |
+          - Predictive Chat platform [Clients: Sears, Hilton, Vodafone, eBay, Best Buy]
           - Engaged with clients to gather software requirements, business rules and ensured alignment with other teams in Agile Software Engineering methodology.
           - Developed and enhanced the features of the predictive chat platform for customer service.
           - Assisted service delivery team to develop python-based prediction console which dynamically binds data.
+          - Performed data analysis including extraction, manipulation and validation as per business requirements.
+          - Created visually impactful dashboard in Tableau using SQL queries, REST API and MS-Excel files.
+          - Volunteered to serve as a project manager in planning, execution & management of project deliverables.
+          - Technologies: Python, JavaScript, HTML5, JQuery, Tableau, MS-Excel, SQL, AWS.
     - role: Software Engineer
       time: 2012 - 2014
       company: India
