@@ -52,9 +52,9 @@ career-profile:
       company. I have 5.5 years of data-driven professional experience in Full Stack Development, Agile methodology, Business Analytics, 
       Data Analysis and Data Visualization working exceptionally well within a team and individually.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Business Analytics (Major:Data Science)
+      university: California State University, East Bay
+      time: 2019 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -63,9 +63,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BS in Computer Science
+      university: University of Pune
+      time: 2008 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
