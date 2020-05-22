@@ -151,7 +151,7 @@ publications:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
-       conference: Addison-Wesley, 1968
+        conference: Addison-Wesley, 1968
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
