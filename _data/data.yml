@@ -90,8 +90,9 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
+          - Engaged with clients to gather software requirements, business rules and ensured alignment with other teams in Agile Software Engineering methodology.
           - Developed and enhanced the features of the predictive chat platform for customer service.
-          - Bullet point
+          - Assisted service delivery team to develop python-based prediction console which dynamically binds data.
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
