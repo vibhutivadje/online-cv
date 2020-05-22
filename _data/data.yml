@@ -8,31 +8,31 @@ sidebar:
 
     # Profile information
     name: Vibhuti Vadje
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Data Science Intern
+    avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    email: vibhutivadje@gmail.com
+    phone: 425 233 9380
+    #website: blog.webjeda.com #do not add http://
+    linkedin: vibhutivadje
+    github: vibhutivadje
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Marathi
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Climbing
@@ -47,12 +47,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Currently, I am pursuing MS in Business Analytics, specializing in Data Science from California State University East Bay, 
+      Hayward starting from fall 2019. Actively looking for Summer Internships as Data Science/ Data/Business Analyst with a growing 
+      company. I have 5.5 years of data-driven professional experience in Full Stack Development, Agile methodology, Business Analytics, 
+      Data Analysis and Data Visualization working exceptionally well within a team and individually.
 education:
     - degree: MSc in Computer Science
       university: University of London
