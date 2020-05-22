@@ -77,7 +77,7 @@ education:
 experiences:
     - role: Software Engineer
       time: 2014 - 2018
-      company: [24]7.ai, San Francisco
+      company: 247.ai, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -93,7 +93,7 @@ experiences:
           - Assisted service delivery team to develop python-based prediction console which dynamically binds data.
     - role: Software Engineer
       time: 2012 - 2014
-      company: Sicon Design Technologies, India
+      company: India
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
