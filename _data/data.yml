@@ -117,7 +117,7 @@ projects:
         tagline: | 
           - Goal of this project is to convert speech commands into text. Used MFCC technique for feature extraction.
 
-      - title: DevStudio
+      - title: CNN Classification Model for the Jena Flowers dataset
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
